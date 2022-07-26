@@ -1,3 +1,4 @@
+
 1.	Swap two numbers without using third variable
 
 import java.util.*;
@@ -84,4 +85,4 @@ public class App {
 5. Palindrome Check
 A palindrome string is one whose reverse is also the same string.
 
-
+```
