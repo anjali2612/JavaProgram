@@ -1,0 +1,15 @@
+Recursion
+Recursion in java is a process in which a method calls itself continuously.
+
+1.	Infinite time code will run:
+Some called an endless loop. Piece of code execute/runs infinitely.
+2.	Finite time code will run:
+The piece of code repeat fixed number of time. Loop will end itself.
+3.	Factorial Number: 
+Product of all the numbers from N to 1 
+Ex N=5
+5 x 4 x 3 x 2 x1 = 120
+4.	Fibonacci series:
+Next number is the sum of previous two numbers.
+Ex N=10
+0,1,1,2,3,5,8,13,21,34
